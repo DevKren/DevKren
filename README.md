@@ -1,7 +1,7 @@
 # Anthony Krenek 
 
 
-Hello! I'm Anthony, a passionate Computer Science student at the University of Minnesota. Excited to show what I have learned from class and what I am intrested in outside of class. I hope you like my projects and learn something new!
+Hello! I'm Anthony, a passionate Computer Science student at the University of Minnesota. Excited to show what I have learned from class and what I am intrested in outside of class. Love to build ML models using different python libraries. I hope you like my projects and learn something new!
 
 
 # Languages and Tools 
